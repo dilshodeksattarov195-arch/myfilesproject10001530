@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruync",
+        "uuid": 13900050,
+        "checksum": "hbnkg"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
